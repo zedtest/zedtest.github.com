@@ -8,6 +8,8 @@ layout: wikistyle
 
 [[http://www.mediawiki.org/wiki/Help:Formatting]]
 
+[[https://github.com/mojombo/jekyll/wiki/Liquid-Extensions]]
+
 
 hjdshkfjsd kjfhdsk jfhdsk jhfdk jfhsjdk
 
