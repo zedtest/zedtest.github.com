@@ -10,6 +10,14 @@ layout: wikistyle
 
 [[https://github.com/mojombo/jekyll/wiki/Liquid-Extensions]]
 
+[[https://github.com/mojombo/jekyll/wiki/Permalinks]]
+
+[[https://github.com/mojombo/jekyll/wiki/Sites]]
+
+[[https://github.com/mojombo/jekyll/wiki/Template-Data]]
+
+[[https://github.com/mojombo/jekyll/wiki/Usage]]
+
 
 hjdshkfjsd kjfhdsk jfhdsk jhfdk jfhsjdk
 
