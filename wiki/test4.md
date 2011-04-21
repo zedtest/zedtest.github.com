@@ -1,5 +1,5 @@
 
-Hobbits rule. So do [[test2]].
+Hobbits rule. So do [[Elvis]].
 
 Here are some hobbits:
 
