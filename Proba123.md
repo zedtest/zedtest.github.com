@@ -5,7 +5,7 @@ layout: wikistyle
 
 == test 3 ==
 
-Hobbits rule. So do [[Elvis]].
+AAA Hobbits rule. So do [[Elvis]].
 
 Here are some hobbits:
 
