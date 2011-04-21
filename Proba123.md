@@ -3,7 +3,7 @@ title: test 3
 layout: wikistyle
 ---
 
-Hobbits rule. So do [[wiki/Elvis]].
+Hobbits rule. So do [[Elvis]].
 
 Here are some hobbits:
 
