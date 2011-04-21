@@ -1,9 +1,9 @@
 ---
-title: test 1
+title: test 3
 layout: wikistyle
 ---
 
-Hobbits rule. So do [[Elves]].
+Hobbits rule. So do [[test2]].
 
 Here are some hobbits:
 
