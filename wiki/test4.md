@@ -1,3 +1,7 @@
+---
+title: test 3
+layout: wikistyle
+---
 
 Hobbits rule. So do [[Elvis]].
 
