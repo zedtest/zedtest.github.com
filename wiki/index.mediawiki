@@ -1,0 +1,18 @@
+---
+title: Home
+layout: wikistyle
+---
+
+
+== test1 ==
+
+[[http://www.mediawiki.org/wiki/Help:Formatting]]
+
+
+hjdshkfjsd kjfhdsk jfhdsk jhfdk jfhsjdk
+
+test ...
+
+[[Test2]]
+
+
