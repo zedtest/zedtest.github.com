@@ -7,6 +7,10 @@ layout: wikistyle
 
 [link text](Elvis)
 
+
+[google](http://www.google.com)
+
+
 AAA Hobbits rule. So do [[Elvis]].
 
 Here are some hobbits:
