@@ -1,5 +1,5 @@
 --
-layout: wikistyle
+layout: default
 title: dddd
 --
 
