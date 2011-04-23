@@ -5,6 +5,8 @@ layout: wikistyle
 
 == test 3 ==
 
+[link text](Elvis)
+
 AAA Hobbits rule. So do [[Elvis]].
 
 Here are some hobbits:
